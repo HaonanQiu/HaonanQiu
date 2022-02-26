@@ -10,7 +10,7 @@
  
  🌱 **learning java...**<br>
  
- 💬 **51691614@qq.com**<br>
+ 💬 **qiuhn1@163.com**<br>
  
  😄 **Happy every day!**<br><br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaonanQiu&show_icons=true&theme=synthwave)
